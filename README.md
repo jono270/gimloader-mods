@@ -13,7 +13,7 @@ A collection of custom Gimloader plugins and experiments made for Gimkit.
 | [Character Visual Picker](CharacterVisualPicker.js) | Adds a searchable skin and trail picker to CharacterCustomization settings. Requires the CharacterCustomization plugin. |
 | [Synced Summit Routes](SyncedSummitRoutes.js) | Records and replays Don't Look Down routes, saving faster runs. Set the Summit 1 start from its Start menu before recording. |
 
-Synced Summit Routes is experimental: movement can drift, and a complete summit run has not been verified for this version. It can stop on drift or interruptions; it does not correct lag automatically. Turn off InputRecorder and Desynchronize before using it.
+Synced Summit Routes is experimental: movement can drift, and a complete summit run has not been verified for this version. If you take control or playback drifts off course, it records your correction after the part already played. It can stop on interruptions; it does not correct lag automatically. Returning to the marked Summit 1 start restarts the recording. An ordinary fall does not stop it. Turn off InputRecorder and Desynchronize before using it.
 
 SummitRouteManager.js is an older route manager; DLDInputProbe.js and RoutePlaybackDiagnostic.js are temporary diagnostic tools. They are intended for testing; the older route manager requires InputRecorder.
 
