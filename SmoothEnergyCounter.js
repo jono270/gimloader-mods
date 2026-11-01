@@ -1,7 +1,7 @@
 /**
  * @name Smooth Energy Counter
  * @description Holds energy gains until R is pressed; displays energy use.
- * @author Codex
+ * @author jonathan+codex
  * @version 1.2.0
  */
 

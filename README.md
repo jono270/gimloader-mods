@@ -28,4 +28,4 @@ See the [Gimloader installation guide](https://gimloader.github.io/usage/plugins
 
 ## Credits
 
-IdleForXp and Auto Bait are adapted from Gimloader's official IdleForXp plugin. Their original attribution is kept in the source headers. The other plugins identify their author in their headers. Gimloader and Gimkit are separate projects; this collection is unofficial.
+IdleForXp and Auto Bait are adapted from Gimloader's official IdleForXp plugin. Their original source is credited in their headers. Plugin author fields are set to jonathan+codex. Gimloader and Gimkit are separate projects; this collection is unofficial.

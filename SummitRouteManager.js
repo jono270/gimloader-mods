@@ -1,7 +1,7 @@
 /**
  * @name Summit Route Manager
  * @description Organize and replay InputRecorder routes by summit in Don't Look Down.
- * @author Codex
+ * @author jonathan+codex
  * @version 1.0.0
  * @gamemode dontLookDown
  * @needsPlugin InputRecorder | https://raw.githubusercontent.com/Gimloader/builds/main/plugins/InputRecorder.js

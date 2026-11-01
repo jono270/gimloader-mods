@@ -1,7 +1,8 @@
 /**
  * @name IdleForXp
  * @description Answers questions in 2D games; yields to Auto Bait in Fishtopia.
- * @author Adapted from Gimloader Official
+ * @author jonathan+codex
+ * Adapted from Gimloader Official.
  * @version 0.3.8
  * @gamemode 2d
  * @reloadRequired ingame

@@ -1,7 +1,7 @@
 /**
  * @name Character Visual Picker
  * @description Adds a searchable visual skin and trail picker to CharacterCustomization settings.
- * @author Codex
+ * @author jonathan+codex
  * @version 1.2.0
  */
 

@@ -1,7 +1,7 @@
 /**
  * @name Route Playback Diagnostic
  * @description Temporary short input replay comparison.
- * @author Codex
+ * @author jonathan+codex
  * @version 0.1.0
  * @gamemode dontLookDown
  */

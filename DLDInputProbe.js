@@ -1,7 +1,7 @@
 /**
  * @name DLD Input Probe
  * @description Temporary diagnostic for normal movement input in Don't Look Down.
- * @author Codex
+ * @author jonathan+codex
  * @version 0.2.0
  * @gamemode dontLookDown
  */

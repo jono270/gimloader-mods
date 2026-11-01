@@ -1,7 +1,7 @@
 /**
  * @name Synced Summit Routes
  * @description Records your fastest Don't Look Down climbs and replays normal movement inputs.
- * @author Codex
+ * @author jonathan+codex
  * @version 0.3.1
  * @gamemode dontLookDown
  */

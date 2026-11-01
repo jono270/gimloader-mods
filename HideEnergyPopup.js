@@ -1,7 +1,7 @@
 /**
  * @name Hide Energy Popup
  * @description Hides the Energy (+amount) reward popup.
- * @author Codex
+ * @author jonathan+codex
  * @version 1.0.0
  */
 

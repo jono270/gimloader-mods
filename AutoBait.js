@@ -1,7 +1,8 @@
 /**
  * @name Auto Bait
  * @description Earns bait automatically: fast below 10, slow below 30, then stops.
- * @author Adapted from Gimloader Official IdleForXp
+ * @author jonathan+codex
+ * Adapted from Gimloader Official IdleForXp.
  * @version 1.1.0
  * @gamemode fishtopia
  * @reloadRequired ingame
